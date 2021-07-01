@@ -1,1 +1,5 @@
-Je ne sais pas encore si je vais poster le code, l'adapter etc donc mettez le en fav et je donnerais des nouvelles sur mon twitter @PHPLukaas.
+Je posterais le code source quand j'aurais la motivation de faire une adaptation style CMS, c'est prévu mais j'ai la grosse flemme et pas trop de temps.
+
+Suivez moi sur insta @phplukaas pour avoir plus d'infos.
+
+Le seul et unique FreeGen étais freegen.pw, les autres sont des imposteurs à vos risques et périls.
